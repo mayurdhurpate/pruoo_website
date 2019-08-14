@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Pruoo Health Tech Private Limited
+
+Our team has created the iMumz App as your companion in pregnancy who cares for you. With iMumz in hand, you will follow all the practices necessary to keep you healthy and happy. You will know and understand the changes in you and the development in your body better.
 
 You can use the [editor on GitHub](https://github.com/mayurdhurpate/pruoo_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
